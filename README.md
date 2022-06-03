@@ -1,6 +1,6 @@
 # Ishita_Portfolio
 Data Science Portfolio
-## PROJECT 1: COVID DATA ANALYSIS USING PYTHON (Data Analysis project): Project Overview
+## [PROJECT 1: COVID DATA ANALYSIS USING PYTHON (Data Analysis project): Project Overview] (https://github.com/Ishitaj14/Covid19-Data-Analysis-using-python)
 This project is a basic data analysis of the Covid19 data using python with the aim to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
 
 ### Introduction
@@ -10,7 +10,7 @@ This project was done as a part of the course undertook by me from cousera, I pr
 It was noticed that there is a positive correlation among the columns related to Happiness of people, living in a country and the column, related to spread of the virus in that country. This brought us to the conclusionn that developed countries are more prone to getting the infection. 
 
 
-## PROJECT 2: SENTIMENT ANALYSIS OF RESTAURANT REVIEWS (NLP Based ML Classification Project): Project Overview
+## [PROJECT 2: SENTIMENT ANALYSIS OF RESTAURANT REVIEWS (NLP Based ML Classification Project): Project Overview](https://github.com/Ishitaj14/Sentiment-Analysis-of-Restaurant-Reviews)
 This is a Data Science Project based on using Natural Language processing with Restaurant reviews and analyzing the text data to finally perform sentiment analysis using Text classification
 
 ### Introduction
